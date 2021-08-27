@@ -1,0 +1,28 @@
+h1{
+    color: red
+}
+
+/**{
+    border: solid
+}*/
+
+.header {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.twitter {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #808080;
+}
